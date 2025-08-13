@@ -28,7 +28,7 @@ ReconocimientoEmociones/
 
 ## 1. Clona el repositorio:
 
-git clone https://github.com/Steevenrb/DeteccionDeEmociones.git
+git clone https://github.com/Steevenrb/ProyectoReconocimientoEmociones
 
 ## 2. Navega al directorio backend/ y crea un entorno virtual:
 
